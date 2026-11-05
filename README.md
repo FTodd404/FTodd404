@@ -1,9 +1,5 @@
 # Hi there, I'm Fiona
 
- **Cybersecurity student** just beginning my hands-on journey with TryHackMe.  
-Focused on building strong foundations in Linux, networking, and security concepts through structured labs and clear documentation.
-
-###  Current Focus
 - Completing the TryHackMe Pre-Security / Intro paths
 - Building consistent documentation habits
 - Learning core tools (Nmap, basic Linux commands, etc.)
