@@ -14,6 +14,9 @@ Focused on building strong foundations in Linux, networking, and security concep
 - Security concepts (CIA triad, common ports/services, etc.)
 - Note-taking & technical writing
 
+###  Learning in Public
+- 📝 [TryHackMe Learning Journal](https://github.com/FTodd404/tryhackme-learning-journal) — room notes, reflections, and key takeaways
+
  ### About Me
 - Currently studying cybersecurity
 - Believer in ethical practice and continuous learning
