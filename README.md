@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Fiona
 
-<!--
-**FTodd404/FTodd404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Cybersecurity student** just beginning my hands-on journey with TryHackMe.  
+Focused on building strong foundations in Linux, networking, and security concepts through structured labs and clear documentation.
 
-Here are some ideas to get you started:
+###  Current Focus
+- Completing the TryHackMe Pre-Security / Intro paths
+- Building consistent documentation habits
+- Learning core tools (Nmap, basic Linux commands, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Skills I'm Practicing
+- Linux fundamentals
+- Networking basics
+- Security concepts (CIA triad, common ports/services, etc.)
+- Note-taking & technical writing
+
+ About Me
+- Currently studying cybersecurity
+- Believer in ethical practice and continuous learning
+- Only practice on authorized platforms (TryHackMe, personal labs, etc.)
+
+###  Connect
+- Feel free to check out my repositories or reach out!
