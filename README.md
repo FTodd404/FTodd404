@@ -14,7 +14,7 @@ Focused on building strong foundations in Linux, networking, and security concep
 - Security concepts (CIA triad, common ports/services, etc.)
 - Note-taking & technical writing
 
- About Me
+ ### About Me
 - Currently studying cybersecurity
 - Believer in ethical practice and continuous learning
 - Only practice on authorized platforms (TryHackMe, personal labs, etc.)
