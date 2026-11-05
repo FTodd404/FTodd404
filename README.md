@@ -7,6 +7,7 @@ Focused on building strong foundations in Linux, networking, and security concep
 - Completing the TryHackMe Pre-Security / Intro paths
 - Building consistent documentation habits
 - Learning core tools (Nmap, basic Linux commands, etc.)
+- Starting to study for CompTIA A+
 
 ###  Skills I'm Practicing
 - Linux fundamentals
