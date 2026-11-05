@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Fiona
+# Hi there, I'm Fiona
 
  **Cybersecurity student** just beginning my hands-on journey with TryHackMe.  
 Focused on building strong foundations in Linux, networking, and security concepts through structured labs and clear documentation.
